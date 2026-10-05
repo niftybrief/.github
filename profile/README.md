@@ -5,7 +5,7 @@ Financial education for Indian retail investors.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=520&lines=Most+market+commentary+is+written+for+people+who+already+know+how+to+read+a+balance+sheet.;We+write+it+for+the+ones+who+don%27t." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=2048&lines=Most+market+commentary+is+written+for+people+who+already+know+how+to+read+a+balance+sheet.;We+write+it+for+the+ones+who+don%27t." alt="Typing SVG" />
 </p>
 
 <br />
